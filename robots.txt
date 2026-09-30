@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artembronskyi-spec.github.io/Courtly/sitemap.xml
